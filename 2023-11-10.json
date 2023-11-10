@@ -1,0 +1,26 @@
+{
+  "name": "Walter Fisher",
+  "age": 32,
+  "address": {
+    "street": "Irecah Pass",
+    "city": "Sungaste",
+    "state": "PA",
+    "zip": "45563"
+  },
+  "contact": {
+    "phone": "(610) 614-2728",
+    "servicePhone": "800716775"
+  },
+  "birthday": "2006-05-15T15:57:37.774Z",
+  "ip": "5.184.83.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Owoha fularo ebhi adhaeka wir nadseri sut civnakbe zo kon wofaberow kiise tifwuh lacjoh kihlolol mun famibop pugaj. No he piudca avubi jitvid jag wabi napalo nek abe ug jile ahipuj siwiwcaj. Viksip suhic zuv mi re nelte ihzatfi hectut ajuujtem rav mu jis.",
+    "bio": "Ba bacaaca ona gejuwadat aduma owlijwek el gewaw nurzemve zuujnup vafowvo awetehkop pu nejifnon mo kumog. Zan cega uno obi nihmuz gein zimib toha acewu sobav lo zofajut wimpo. Cek kaw lugiman seno vi nepa lan satijwid pu retekfud su ebe loro sunajuv hufica."
+  },
+  "apiKey": "40a6181e8dd013b4ea87e74e5f0fa758e3c5c5a891a48affef48a06c1cc9e61f",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
