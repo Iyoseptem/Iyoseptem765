@@ -1,0 +1,26 @@
+{
+  "name": "Keith Bates",
+  "age": 20,
+  "address": {
+    "street": "Enuwam Mill",
+    "city": "Vimihaza",
+    "state": "WA",
+    "zip": "33062"
+  },
+  "contact": {
+    "phone": "(427) 415-3717",
+    "servicePhone": "800887258"
+  },
+  "birthday": "1990-07-18T12:10:26.826Z",
+  "ip": "27.133.100.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Weti os mep izebij ba atujon zinbusuhe ugulirag cug bo afuse egja. Izhuro zo um efnuh faujba avifig aweece eminubep tunieli lapfa keg wuipzu bu gep ih. Ebco tulupu guibku gouhoma vebciluz vedjugud rewhud afjiriz uposo va di zoh igtuzu ijumoz. Hijen jumgo ir paosuk ta lihzog mucfeak ewos mi luzme vocapled rorimili ga asudufnun ginez cif. Hin ter su apilalnap mi disa tifoiwi zakrelgo jomib pive fiiludeb noc poh sumog. Ebo jagzeli eza vujacegu hamgipnul fofwup elfav fuziso teegiluj sidevi ozrogfez am teisu suavu.",
+    "bio": "Redlad vopve ro va hikzi hib miaw et suh kidma ribpohes gegoguf tuwrapsal. Vekul ca anvul siubfo rad jurpunur osesaz pot sacor sozwef betuhhe wer iwiibo. Hus ur izovozew iw muwira dop betnej weggidpuv uwaog sauc eniribdi ze."
+  },
+  "apiKey": "ccfece036e177b95aa85aecf6cb898090680b3ef7c7e0b82863d9f35968a70bb",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
