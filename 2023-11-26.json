@@ -1,0 +1,26 @@
+{
+  "name": "Emma Goodman",
+  "age": 59,
+  "address": {
+    "street": "Udhu Road",
+    "city": "Bijupzo",
+    "state": "FL",
+    "zip": "92248"
+  },
+  "contact": {
+    "phone": "(413) 621-5414",
+    "servicePhone": "800612621"
+  },
+  "birthday": "1989-12-10T02:49:20.976Z",
+  "ip": "80.247.80.5",
+  "foo": "bar",
+  "profile": {
+    "about": "Jipawki izpev kudivo nib azahoaf hegas zefehra ucuelkig vepnilsez raj ovejeh asajul jezusad eho. Bobendib ujuci hid buvetaze vot wupega fufomwa raeha tuciruhi oga falhor ju ewovoes lav bimli. Nag cezhotrel koipaku cutni kon rehriheh uljehwaj velam hatadzu vubaic orfothab runcabi wog turuw catefbu.",
+    "bio": "Caaz revvim garewsa fa dogosah va se agmejzac ejfal joz mobam fibe sidudo dok wefpip vug. Mi adniwaj abera gaokuced lanov rul zed wi pefemgot rocuvon fufige huuga kujjeve. Zof vaki matbul dubac ufbo uvji bucunvu dubfucef cumhe oruciw ganed wolvedka wakco fow."
+  },
+  "apiKey": "e71ebfb83f4c2a7ce85b438bd8cec463776275f0dce91dea3358b78db6acba6d",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
