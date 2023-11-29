@@ -1,0 +1,26 @@
+{
+  "name": "Logan Saunders",
+  "age": 35,
+  "address": {
+    "street": "Colu Trail",
+    "city": "Ocorutul",
+    "state": "FL",
+    "zip": "50249"
+  },
+  "contact": {
+    "phone": "(584) 346-2901",
+    "servicePhone": "800974169"
+  },
+  "birthday": "1983-03-26T01:49:35.324Z",
+  "ip": "105.145.109.249",
+  "foo": "bar",
+  "profile": {
+    "about": "Ugemaca av kibod seka are anozega vi mifun dumovazo zaipesa nav ej. Icnar ukjibin na ehho amwuwe tepotit pubtov nosohok jed tulkurwem sam ihafo hes. Helevo ilsikus irelu puchapat he wodwim wev ar kipfu cesbozhez wuv zejsi.",
+    "bio": "Gerbafloc zeoc rulsu zemog macracpo koisimu do jisaleh mepwaum jacizwa roihrij cinkusbo linuc. Fo da ikaufauwe cehi bamak kilajpim awiwomob hukhazeb ujonela daw co ega iwidagiv zin cudeeh pe mawfaj uca. Kuhipi si pukehipa corbos zev beg zu ce jozzu momeg bez hedji zakkuic. Duciw zul foad digrunri fo potvawu ru opihosug wec ogacif ito asuvakkog piwospe nepse azorve wan. Tu tethid miz bici ise woj dubdota jagoj daperic dufuc ba gahew izu ahpog benwudga lez rufnepusu vo. Pol nigcip alowirov moj biw ceijor uri obumij na tahot elabi munnijit. Hucig joffisja goj wiw irace fe kozjawoc ga jojeri sa jomgeza zof lig rolfa diz fapik lehi."
+  },
+  "apiKey": "dd5c560d88c1b5940bb393cb06e65b0a297ce0dd6a72f138ffb8f11af7da2a33",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
