@@ -1,0 +1,26 @@
+{
+  "name": "Vera Singleton",
+  "age": 64,
+  "address": {
+    "street": "Kalij Place",
+    "city": "Isalonmo",
+    "state": "MS",
+    "zip": "60850"
+  },
+  "contact": {
+    "phone": "(651) 730-1826",
+    "servicePhone": "800583971"
+  },
+  "birthday": "2002-10-18T00:31:24.109Z",
+  "ip": "36.41.53.67",
+  "foo": "bar",
+  "profile": {
+    "about": "Nehioso dos ja mapdihe buornoc ifojug vafos hi cuhewfu mu pocfavke pejtagu fatedgo remhup hikelfa. Haner capec famadez guzuzgu gimmicpow vo uwig et ru muhgon zeefoece sel obe ke fatibwo gem. Enigo izotow vuvhubhuc awgad cavuvobuv ita ovama ebtup eltijiwu davazone ci sifem lebof nogaz dotnitto. Sitmijzu isjazmi be ta vali godelavi na go aji ocirip kasok hi ow. Heb vapobuk ujumojriv keg jem doubauko jecafvi usci cezniwpo bijeve noejsul id luvisef okurite. Wunuwo viphaija gov cutucbo belcibi wizih fuvhow wadhavep ra mifoh dagtuv ca vofupohe ruiki jahuh otihi ibu rekbo.",
+    "bio": "Ececa dazatja sikelte olarop jemum emniha mam zekpulim bupuw hecceame bal mikep ju kimisouwu hazceub pihato po. Lerihro uvajiktab poezu ki ava riru bubzecdo zenfir azaludap ulehol amufi ah la na citon bor ovebahru. Ini jibkidgu ovso fuzow ja bisfezo fuec duifo lawuv ethuwo ope gar da."
+  },
+  "apiKey": "e111807d16220bca3c9456e305f7d28509f030c731d81d0c06a56258ec5e1a3d",
+  "currency": {
+    "code": "CVE",
+    "name": "Cape Verde Escudo"
+  }
+}
