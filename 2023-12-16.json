@@ -1,0 +1,26 @@
+{
+  "name": "Mitchell Clark",
+  "age": 60,
+  "address": {
+    "street": "Risun River",
+    "city": "Emutoeso",
+    "state": "NM",
+    "zip": "85822"
+  },
+  "contact": {
+    "phone": "(644) 836-3283",
+    "servicePhone": "800125193"
+  },
+  "birthday": "1964-03-23T06:18:36.425Z",
+  "ip": "236.72.225.165",
+  "foo": "bar",
+  "profile": {
+    "about": "Cekilek mahu gajmuhdim gobbes uce zeoli dasoh tumato suhkaoz opoho abe zaasluv. Of kurlu ne jes wev imiali valpuka hehkuk fi dagmuj boc gagosoc helene me seniz. Mohtecba gelofdo wiecfoh lub hopzo itehez vezte biknop bisil inro mezop muz va ku majgalwe vetmotu igla lutopumor. Up rubowgit romgo ciafkaj cetjer pituwro pidcu wakugejez lu lajgimu nuov tuk dih bido safoevi oziuf.",
+    "bio": "Pecawo olzaruk wug cugmildaj zod mibnof tunrehit herunon uczokir aled ejo paca. Merer causa kidijli uhi ebi ok uvikeg nob mog nonro vegaizo gat. Vorruf piwjuvuje mecatje ladlut ca co gu tutmulo vakiuf gin so boiwa kij kehnuki koj wefoim."
+  },
+  "apiKey": "d2cb75e2bddaf27ddf73e0a96c31e9d69b6edb156e98ac4fdae0b9083785f979",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
