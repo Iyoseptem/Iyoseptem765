@@ -1,0 +1,26 @@
+{
+  "name": "Jeremy Castillo",
+  "age": 47,
+  "address": {
+    "street": "Ulirih Terrace",
+    "city": "Zihrinip",
+    "state": "WI",
+    "zip": "44182"
+  },
+  "contact": {
+    "phone": "(500) 354-5655",
+    "servicePhone": "800493869"
+  },
+  "birthday": "1971-06-17T23:48:18.735Z",
+  "ip": "10.10.190.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Luuwlir duk acgi forot migezu geg wud zi dap wivanri ejas ewaafacoj muswami. Sasbec jaw avjojgu lafebwa miles fipci sueno jeggi timahuca caecizog di janoz welizta uwovucuje. Omugeznit obuto mircoapu fedoje wug te guofhis sokuvit calpucdec cejerfim sewda ovifkif fij vive egni lajecut.",
+    "bio": "Lustap bafabfo pervepvuf hi ufpusi ri alijor coslam sawmina fagaf nejoj ka minofuz zob temowofug. Nowpoh zo baldo zozne runifper artu puwi popu mic kuwum runuhuma jekvobud. Ga mewo zi maazri ho rupukob rotlete keketatov juje rebsazde oli dindeh ulsi bukif oceta irfur dav. Rud bad otpu bazgod zognonno osabel ferwadhe nosabo vuluv tehorka fef agobodat cuj uku."
+  },
+  "apiKey": "214e472d3066c00bcb83f457f658eedc223d511393d7c930872a852a23fb0e96",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
