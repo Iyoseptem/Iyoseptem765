@@ -1,0 +1,26 @@
+{
+  "name": "Sophie Chapman",
+  "age": 27,
+  "address": {
+    "street": "Joji Turnpike",
+    "city": "Polcide",
+    "state": "RI",
+    "zip": "26933"
+  },
+  "contact": {
+    "phone": "(538) 971-7028",
+    "servicePhone": "800181271"
+  },
+  "birthday": "1970-07-01T01:22:31.691Z",
+  "ip": "70.137.161.243",
+  "foo": "bar",
+  "profile": {
+    "about": "Cul munzun aluteisi culuj waokebo ruvu fi lirjagi jaluh izzefuso maohelut co tivismo nawja ciabdum vuzjezko. Joho riofjir guan lirlo go viav ep inaeflu engano dooku juhniho jat kude ozzonsep hu irja. Ho ciwi ronawon sejvap kofhoipo me uti dettuetu ipudu ciza ucome de retun moizu futoncuw divveete huku. Ronow wiika ohov heos lid vu nabihta ijemoggu oranehda uzulehvaj ovi cur ateojaoz uboroceb gil.",
+    "bio": "Nusagitu rutam te ifmu hueluge bozbuzof iha voli baw razotaro in vub pamrak budin merunir bo sawkidos oha. Pojbiw fa uwsiima vakiwo mizmosi weheh id folac vuv inmitigu nibom wo bakriva. Fihu riipnaw move miscanuc piv sidutnu fiteti laitomu ecwew cadwecba cen dub. Vedhup kofzat dadok il pufa etida teudu re vozkesob lu ta aziesasiz icu suvga samopo bulov. Denibuih fadlaj roanupab ho reze oru belro beri ofahucwe surgoc fivpe ji."
+  },
+  "apiKey": "74442bc359e52b2b1ccd1d4d8aa568c2115b8280582c7c8cac9f4ceb64614113",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
