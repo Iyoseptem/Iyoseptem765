@@ -1,0 +1,26 @@
+{
+  "name": "Max Gill",
+  "age": 42,
+  "address": {
+    "street": "Zecer Extension",
+    "city": "Dekkudu",
+    "state": "SD",
+    "zip": "63524"
+  },
+  "contact": {
+    "phone": "(944) 730-3139",
+    "servicePhone": "800855395"
+  },
+  "birthday": "1995-05-11T15:55:50.216Z",
+  "ip": "92.200.23.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Ombidwo niltocvav kelma tevpijaz humod inosaj ite codudo ewvem da muj huri. Done fuhaz hi ojoduw vewalo calsun kar pucew opo ipimuckev ovovatjof sop vef ofsow. Ik bininbaz vu ug do iv ozodom ifmid wofozbeg faz vez bedit fedih ocizeto jigelce. Fi ic baiwe helinar mowaj wiwje tule jukda ruzetow widfav judoju jahdavok foubi.",
+    "bio": "Kibwi si wivfova zuvawanu titvup bij zobza gepbadosa zibhiw go fikbin kivzac cawnob azotlu pe guh. Maboz zufi zipzowetu imsigtaw epvuztam kah jidepaso gotmi zuzgad vad luhen gihuz. Par jahwebiz egivacu salmafe bo zaf faremje fuvazma culacaci pa wan vaepu laf hugwu tocifhuv osudiz beohji."
+  },
+  "apiKey": "5b9d16259819c491c37a2696070eb4e96ecf20391652c73d458203dfee1e34df",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
