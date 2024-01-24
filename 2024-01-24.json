@@ -1,0 +1,26 @@
+{
+  "name": "Mike Drake",
+  "age": 39,
+  "address": {
+    "street": "Vira Drive",
+    "city": "Kesnuwam",
+    "state": "RI",
+    "zip": "10276"
+  },
+  "contact": {
+    "phone": "(583) 338-6146",
+    "servicePhone": "800871266"
+  },
+  "birthday": "1974-04-05T22:37:28.891Z",
+  "ip": "112.65.204.173",
+  "foo": "bar",
+  "profile": {
+    "about": "Gep wib momamta awlo suvgi bejpo rahur nor to ic pih toez ul zefapu kugce nihco. Hocuj lowezoik atfijsaj gano pipim ji nolzoir ne zus semuj vudeh gub at kir rowera. Sa joulgi ba kosili hulev sonur gekanum loadozu hurvawe gev jopotru gusrot raz gejafu. Juk dibzuk ihucectes upuwig runem vem pejgev cubpojkor rekmawo bistup kun deview regrothoz adezapa mejagud zeweum. Alo fihew to jufvi li jikcijva hal gopelno rudeoru rafemere kap kuf fuedupeg nitziot. Biwompuk bubefga suzrep acjodfo el poletgez kezneb wultub ve sarbodwo div monih dowumi wo.",
+    "bio": "Foke vapzozug mah ha tob mi ubeto taf dualim if led situw avu dikluas no zufo tehzo. Rad ho foj kovcafi bofho diurtig rav dokmalo jiizebim wonla ribe tokdo gar budu lij mug anicuk. Hopo efi aduzoja zem ul oka to cu wage ucose pem mepnuze hakarubu."
+  },
+  "apiKey": "181bcfeb4c425d75565a1df6672eb71b72072d4f79a5f3b3c46b05157b82b61e",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
