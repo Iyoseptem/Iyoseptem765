@@ -1,0 +1,26 @@
+{
+  "name": "Donald Roberson",
+  "age": 54,
+  "address": {
+    "street": "Saluz Lane",
+    "city": "Winenmen",
+    "state": "WV",
+    "zip": "72137"
+  },
+  "contact": {
+    "phone": "(328) 302-6220",
+    "servicePhone": "800116254"
+  },
+  "birthday": "1975-02-15T04:02:07.119Z",
+  "ip": "120.136.202.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Dit di huhhoveb fimub focim ejisebe avsos raocfu leg anaaro gutfefeb gosrirhij cacugoral ceseg mu ahi ig liovwiz. Cusu okro rurha wo owpafu urimopro bonritu opoal hen om dazvotu sudo pi kifawar cot roma. Haz rohvucfe tevel bu wo vurdup enefaep juhdir owova guktu ripzu ovavion humu boebofe numo nanikot bauh mifukag. Ecapan je evule kac ev ikuni dilgufu oc ot zic selto soesuget. Balhazu sip osoorafep ricpac tis lim hunlomit biwug wewugce winru uhozezzu wi wosho.",
+    "bio": "Ra wajli kakfa kirzoj tuzadimuj lal av am nufdi itahi tofiboj pegpina. Pib wu af gibo of lidsip le cenef ciofu do vevniz giluhop rojohfik biaha oneb nuwvihtog lar idruc. Niucu emki pan isu wojedbu gevec cudib lalnu aco derwowper riez tew ar pebva pofu."
+  },
+  "apiKey": "19e5003b9d0ad2004aa8799a4371b0242c60cdf920342ff54ed43f2841a04248",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
