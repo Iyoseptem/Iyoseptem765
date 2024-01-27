@@ -1,0 +1,26 @@
+{
+  "name": "Peter Lynch",
+  "age": 32,
+  "address": {
+    "street": "Afosa Court",
+    "city": "Jebuhufu",
+    "state": "SC",
+    "zip": "73874"
+  },
+  "contact": {
+    "phone": "(919) 622-4396",
+    "servicePhone": "800378923"
+  },
+  "birthday": "1962-09-14T00:24:48.519Z",
+  "ip": "83.200.222.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Corsamufe ufafej totgujec de his mudurvib kumgeljij cu ibupariz socoh ojcab asubaso wizohhib subiri ese. Muvsuvvan foptavaw ku unokikeg ikal je gibure sotiug veetumaz ce pievejal jophol ibfer vohfow. Waawego vuz pec aj tuvuc pejhepne zulfoore ni ni vul hepupi hih paki vovno.",
+    "bio": "Zampev okofaj afi hehpora ige cedifa geuso zano vinuv wibevma agimaf koka jobegav do fikwuwo. Cugekub ki lepu dam dizi bo be gipuzju fides calmub kog nojajab terop menir kehetu mum. Fuv bodbopip jof vimowhe puzsuwha peuw fo paseril dika utuga ti ri kuzikep emsuhtik gugu."
+  },
+  "apiKey": "f340116d52e3e1ead88e69c6adcb2333407cfca11ff862233590b9812d1d03b4",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
