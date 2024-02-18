@@ -1,0 +1,26 @@
+{
+  "name": "Rosalie Malone",
+  "age": 32,
+  "address": {
+    "street": "Redic Plaza",
+    "city": "Betdokeve",
+    "state": "PA",
+    "zip": "15382"
+  },
+  "contact": {
+    "phone": "(584) 673-6945",
+    "servicePhone": "800817816"
+  },
+  "birthday": "2006-10-03T23:29:59.945Z",
+  "ip": "227.45.19.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Me cofisdom cib oweopzu isho inpenve odbu opizej nihwiak mitmam tu gi eso pasil zi vacek lukulo. Ba awa mafapu pasutkes achin me gil zafe riw ap avizofruf tidhul vece ruome. Pa fonza kizuk ene fuw ziroza vovuhu tubwuc zenpo tapom akevel wa cigabiw uvisipip curina.",
+    "bio": "Alaolsad tulilmuz se govu dupra nuvur vutnoila pibuto gub ahizalwa ligefute onaso itu faivi wabucbo sunad zafbugsa kurfihhu. Rom livzo zahwisvur jew faziti iwof deovgop jucpuegu oc nactuv dalueg cuhni. Ruzop juuclef edijepi oga kovpa wedparhu pulwihzi li erepa wece fada zo. Fip sogsogag jepmape ekwicej wunri su du guakaulo rijuud sabrazcok maeb kaaba."
+  },
+  "apiKey": "aa0bd95f4254df77e87b3bec8570674f7120767c88c3f22df4c699b6e71068db",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
