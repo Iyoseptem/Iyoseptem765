@@ -1,0 +1,26 @@
+{
+  "name": "Thomas May",
+  "age": 60,
+  "address": {
+    "street": "Ehano Turnpike",
+    "city": "Agkaffi",
+    "state": "KY",
+    "zip": "01897"
+  },
+  "contact": {
+    "phone": "(571) 534-5088",
+    "servicePhone": "800514993"
+  },
+  "birthday": "1964-02-17T06:26:08.616Z",
+  "ip": "171.118.226.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Caveromus entup hedozasa pozu jukka fohahunir weikeba ha keur fuja recmedur kafceb donco ogtemob. Hotzak kog jovudot bur nodojoba aruveiso gi zik de borim ekuuruaw edci na. Utoeteca ebifi tecat kiwvaom komrub fijesul fuceolo pevigozu utiha rubood gamu ojo lutod wo jaljo icanipu edewizep.",
+    "bio": "Gelmimdot wut aro od be cihiazu cakaj wi towa rehgi gimdisci ico egemumgev ba invofvut tohsoneh. Fafur awu kuvmirgah jur wejsizdiw val fesaha bov encekul famtuzjen kirane susnuwewi buw. Lotebic dob wutuwavo hod digza ta li lorirafa copba fenraan ga ajkeh kuw kuca."
+  },
+  "apiKey": "c95745dd423ba22947a5d4fcdfaab395cac6e82c81a14b0ef643639bfbcfe540",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
