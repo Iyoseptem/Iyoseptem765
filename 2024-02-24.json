@@ -1,0 +1,26 @@
+{
+  "name": "Rosa Bryan",
+  "age": 46,
+  "address": {
+    "street": "Cive Trail",
+    "city": "Isborga",
+    "state": "IL",
+    "zip": "26726"
+  },
+  "contact": {
+    "phone": "(919) 414-2095",
+    "servicePhone": "800619611"
+  },
+  "birthday": "1999-02-28T04:02:25.688Z",
+  "ip": "55.79.156.36",
+  "foo": "bar",
+  "profile": {
+    "about": "Dokwi iksid wo zil iro deka me fesokuve tobjuhit lotieh guuvses persueru ci hihsuv. Jiw vivfoj heva rinam amavesur pu neb da megbaca osna pa puiwcop. Be ninnahac nezafzit ba lieno rifumla sutijkiz zil if rupeimi gi ef liw diwilve zig luhaezo obuti uzwigow.",
+    "bio": "Ivo ficze va gok ribosa gukoh vuhtez aljen vawpofmi biru opwekep buwmofak diz budegip linnoj. Tu izvi gat se du zadhuznif rehoel fovu tu igniwsa to cuj mausji juccur mulig tevorru atododum. Okgep eco aneiha ebufaw zilroj ginrot nuko ahaso jibcagve vermezuh da maj suc cepte sojiw po."
+  },
+  "apiKey": "fed55f2c6d3b04fd37a827795d94d41f1baf408a2567072d113769013ba3df49",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
