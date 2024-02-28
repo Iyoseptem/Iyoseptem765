@@ -1,0 +1,26 @@
+{
+  "name": "Eva Page",
+  "age": 53,
+  "address": {
+    "street": "Bigu Place",
+    "city": "Zevopnar",
+    "state": "WV",
+    "zip": "48222"
+  },
+  "contact": {
+    "phone": "(775) 363-6180",
+    "servicePhone": "800196373"
+  },
+  "birthday": "1996-03-18T17:09:24.354Z",
+  "ip": "86.214.246.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Uzu isju li giosavo tuukicib osanol to noub ifka tic gorup nibu fut. Ne elveomo somuhnot ginati ci etu fotoj soglamav ewrathi ebaci muhza kiwri bebcokre pipirif. Vef bo jag kutcezliz ho uri ajifireh lebzemsak uri haoti doslu fuzbuk helzade. Zuhevikut faz ewasi akvo efvurelu hecekof nere ulfabban voitluv sivfi mu tacseab vaz zaf. Guto wodos faluzpu navkat vakirubid nomuh zowo nucavha eza murpi ru nup saovuzes umafazmok do ebo.",
+    "bio": "Gobomgut tawo fe lobtice wowra op sothet atvo dom mu emaotusun neh tit zi son hufuv. Holniniw nob dulcik worasre honiv gozmik dauni hakcas tos tusu je hizownoz. Res til bonijlo akneh co toz igekiw wo wa nupag kesva bomse sod did raugabe fefu luca pour."
+  },
+  "apiKey": "b3f54daa1d0b41c8e11cf6c1366e3bc5086849b325ccb263af9981b3f3709d65",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
