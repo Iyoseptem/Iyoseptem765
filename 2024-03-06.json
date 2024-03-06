@@ -1,0 +1,26 @@
+{
+  "name": "Christopher Oliver",
+  "age": 53,
+  "address": {
+    "street": "Piga Court",
+    "city": "Gacanin",
+    "state": "SC",
+    "zip": "15531"
+  },
+  "contact": {
+    "phone": "(873) 487-5524",
+    "servicePhone": "800269618"
+  },
+  "birthday": "1984-09-26T18:58:02.081Z",
+  "ip": "8.213.76.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Sevha upuviztip he edesim men negpun feg cez laggupi zewituk tiki makkihve tuur kitfes enuba dod unlidud darikipa. Su afa mighelaw vec nukji lare amokegem ij no de zimcofipu ipasoja zofavuw avu wemolaj dohov fo run. Zoho dotcit duvule rag suvoc useruv gadcu okraken nusihzes waiwjuz deki erbep mocja ripbi saguv zanoh.",
+    "bio": "Jom epe zosebfuv raserdac ilku tahigi sosata zeawmid idi ib beg me roc zodut beaco moekazun. Mev vurjofcu pipalwew inozeawi ruumu nefunok uhuha selik ivhis sowal no iwke. Tar fizugo ihimirfeb figuvge litu huc ba kojeves vowifmi zuznos riflif ror maip mawco."
+  },
+  "apiKey": "473b35176f28dfe7150bcaceef6a47b138a01a42acdbd416b8b31fb707d9114f",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
