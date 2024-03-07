@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Davis",
+  "age": 65,
+  "address": {
+    "street": "Iwmel Terrace",
+    "city": "Dalahvuj",
+    "state": "VA",
+    "zip": "85666"
+  },
+  "contact": {
+    "phone": "(536) 600-1511",
+    "servicePhone": "800678117"
+  },
+  "birthday": "1983-03-24T23:45:32.909Z",
+  "ip": "150.239.33.100",
+  "foo": "bar",
+  "profile": {
+    "about": "Lo ihuril horfuk oceze ezo di dejunek leora lub ujotocdo holdugkig sonke ed cejufot. Dirtu caekjoz esa osmuca ep pojafveh pi ve hima kucri muzputa wim ja as. Ur me ehohe duhkikco nusfoc teftufnej zajfafvav ciwsuh sub avebu luonewu hizde tuh geoler. Rimhimvos met hoki eleavjuv aluwe epa fegniw sopiti rufav puc fan sen huti. Ofoukme vur pa irvo fefsaz ruwiwub wabiji rozsihuz pim bevesla ofiv rurfodce zuzecog ivemoc mik. Di derli pir ifomihla ihra sijluwhiz tazus nijab gasru alrebudu fopolro ziel. Ukgi danujot semwe vuav amukjop tiwi zutuvna abe bije rekgildel asadebfo elpilzel ziku rub di midmu.",
+    "bio": "Cusrinnaf mezobo rejacepi kowter ik rih owoozek ne vel mabjuv dor dabibju unnig jag dijesbu diwin. Avakaak pi lubcise zagamgih beugot wogbo dav hehetgo zig mavru zefek vuhoke nabluta lumjis zozdejmuf becge guzjud. Lo tohtiup reb ud mod rauko sapvik vima owoto bablidwu ezicu gufobe re. Afaretu pudbusno isitejgo tod do an suhrob has naoje gewle tanaruw ezudos efobu wiaj. Atoagli jipta puzeob uvfib jer sif vabe jaku nir uwiefceh varu rival. Ceje nuduko itajo le eg wi regam zi evi ob ig wehwaj os gotowo amuve. Nefo ab jaec nied rukzut wado olgupewa leca radal ha seekowul fom."
+  },
+  "apiKey": "48467b2fe2db53df773ffbb7ca597316743c22c26ae92330ed00df10d063d1b7",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
