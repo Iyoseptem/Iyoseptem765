@@ -1,0 +1,26 @@
+{
+  "name": "Dennis Gardner",
+  "age": 21,
+  "address": {
+    "street": "Perra Trail",
+    "city": "Bejecja",
+    "state": "MA",
+    "zip": "88184"
+  },
+  "contact": {
+    "phone": "(272) 221-6603",
+    "servicePhone": "800276424"
+  },
+  "birthday": "1988-02-10T18:22:26.167Z",
+  "ip": "85.120.174.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Valwij ga uda ziudiuto moj ez asgijza pufoz nup se jofur nov. Acoter cume kot jajvif zas peawiogo feigkup avmonah tenjul naisvik kabhup gevahuki zaw. Hizge obnawuc roovevo le loh mis jerudepil eva zobe degfu jiv idugesone fune lozawme dico how.",
+    "bio": "Fi di cucihiza ulueco nu rutuoja ed lulsusus oge tome puvkovsi kin hioke rutero ib ce. Huw zezuh goghut feznafeb takigup zawdifev omibu lowzirmu uthin ajuhe gevafhaj zaota befiwnak lancolu fok aneij. Fov la rog ekico cefmufta gozkivgim hura mokotmen wo ki ara keigtoc felcuz fitne gafu wehwik hefap cotofma."
+  },
+  "apiKey": "46bb8c7df31723e9e6ec680b965a4ff0bcd55cdb0624e325580212692de95c8e",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
