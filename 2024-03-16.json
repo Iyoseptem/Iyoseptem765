@@ -1,0 +1,26 @@
+{
+  "name": "Mary Williamson",
+  "age": 42,
+  "address": {
+    "street": "Kopa Loop",
+    "city": "Potibose",
+    "state": "AZ",
+    "zip": "18810"
+  },
+  "contact": {
+    "phone": "(523) 384-3235",
+    "servicePhone": "800437587"
+  },
+  "birthday": "1983-02-22T03:47:29.878Z",
+  "ip": "235.180.239.196",
+  "foo": "bar",
+  "profile": {
+    "about": "Fiwauc sid fun reskebla uwaseece dunofi lud jellejit mosal cas orukujku maejeiho heconpap hu. Zuujimu in nocom mugro icmuhar foaz ibha fovepih irhav tuplug dufaeti di olusi vufpusa. Sov lujwomef siwugu rakede vi houd ke pe jejiwveg eh soz ercak iso ezu ta wa. Surak fogubgez vaw fedbi covair jel cifco lubwoga buzbol pusobno wa nogacejir ah pugnod irulo. Taw virlecko bumihaj co nuk iwo ofegavin vuvkedgu opufew ji il jalacso. Ni kuk la ta pi elasugud na zu po ule ropil fi impun luwvufe wonzonewo wezlud ibo.",
+    "bio": "Mejohi zusej kiagi wazmavhug tipkebhu akafuwot buina dengafow em makkano pava vul jiluv agitezdar gopwe bej ocu. Ku ul vat ibapuwne fibmekag ho ugotil acdat upoziuzo lued zu utaici nihvafa tilpa bengulew biaka. Udi retimgul eshefso da owe inodage uje vihmemkuc tucze fef gac da moasetij ji fopjo ev ivfavpu. Lemi fed ca icrusko car ga lak vij zac mubsoduru fo tucusu."
+  },
+  "apiKey": "3b6e3da85cd95f5081a45ef441d352b9ec674d1639a7f91d13adfd7b32801ee3",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
