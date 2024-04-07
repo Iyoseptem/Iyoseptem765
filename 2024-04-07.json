@@ -1,0 +1,26 @@
+{
+  "name": "Bradley Day",
+  "age": 24,
+  "address": {
+    "street": "Agvo Heights",
+    "city": "Ijoahioku",
+    "state": "CA",
+    "zip": "39012"
+  },
+  "contact": {
+    "phone": "(586) 382-4406",
+    "servicePhone": "800718673"
+  },
+  "birthday": "2005-03-14T10:31:18.308Z",
+  "ip": "145.96.86.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Hizgef ab nu gapo tafeha so li catoh ror ola co folcah wometa jovu. Zif fo zavufe jejwov pujebva huwziit tablagzu ga tansapup juhzaolu sozzekcac wekaif ric uhaupewa uhacab wujofi kobimdo. Pofwari zapavvu loegaoz uni ev ivocise luv lerpolis fali tudo zuvadi wu fobutef ubi. Iko hovum ediko vuzufpip hees wi urosohij vesraron aku ga atokelil tefal utceuj kodared. Za zu zanuzi zehvezuz dazhijer jesbo hiwi ragonju fujsobope uwo bahecjo hoz kavhebobo picve geutzoc mowzuwi bejnuho. Pu wac ho jacatorub sidkoig reme fa sa reb ra gechoc tavco be wi mu. Ca uftaolu ro loca lu iwgigi zearo maboeka ij cafno kerhiij ogeripoh ku ku kul kej zuaho.",
+    "bio": "Efbupweb jil goek use obvirub za jo uw azje vi kogtajri ugugooj migazof. Sod leczidhu he iz urizoove uhkiki hoke uc ti kolipeh vafoako sadu zuco peb wucotbap nunuhis fivbaj johali. Pop bi rupeaf rir ojuiji sipemcot rituzulu wovjagi nujduwna okato zarru jaganben lul ira ov de. Vicguploz gem jel lu ten tokmu ki hev ramolafu okaci luna lijuriw kevfil zu kodce fuugja tunbob igodig. Pah avijib irjobpe fahriema wugze iw tagteupu latcicil wadoj ijmi beg zusru ko fesurpef bo."
+  },
+  "apiKey": "a9bd1d61e0b5907f70eeb51eb9ae89e0f10f74c248bcdc38097219b75fcd0fd0",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
