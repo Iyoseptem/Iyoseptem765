@@ -1,0 +1,26 @@
+{
+  "name": "Della Schmidt",
+  "age": 20,
+  "address": {
+    "street": "Itris Pass",
+    "city": "Fipakun",
+    "state": "NJ",
+    "zip": "82578"
+  },
+  "contact": {
+    "phone": "(213) 239-7755",
+    "servicePhone": "800181677"
+  },
+  "birthday": "1992-09-28T09:31:29.199Z",
+  "ip": "246.36.197.113",
+  "foo": "bar",
+  "profile": {
+    "about": "Ub zovdeow ho tuj siadukog li urekud nodi iwoepki vemuz atumaj taljapfur bilu paz meshoh faruv. Dezwuupe afifob vumka hop tu cac mecajo rim fookobu vor josu bureh zam zororma obe ci. Riwip ebzaif tud geczaun tego luj er jihfo ohuetko na micasiwek luvjo unoul cap pavozaw vezu joklow.",
+    "bio": "Salfu wapo wado cigfo nicugona oda geili tadotama kadtujfo cob rugi kagiv norru. Es heelukov ehoibbol lar jahlorga hofaje ramgarijo wo dubjouri esezal tu tidlaguc luhada. Sosimenej fur unzesaw vopugol tit tarme ate oj awipugji otci utmo louhdi sobulzi dewih."
+  },
+  "apiKey": "87e5c1c66d9ae68ebeb405ec97636971c2f61760fe6903dea72d79066cb4f96a",
+  "currency": {
+    "code": "AOA",
+    "name": "Angola Kwanza"
+  }
+}
